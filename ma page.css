@@ -1,0 +1,203 @@
+*{
+
+	padding: 0;
+ 	margin: 0;
+ 	text-decoration:none;
+ 	font-family:Arial;
+ 	list-style: none;
+
+}
+.nav{
+background-color: gray;
+padding: 10px 20px;
+display: flex;
+width: 100%;
+height: 80px;
+border: 1px solid teal;
+box-shadow: 0px 8px 0px white;
+opacity: 0.8;
+display: flex;
+
+}
+
+
+.menu li ul a:hover{
+		color: red;
+	display: flex;
+	
+
+
+}
+.al1{
+	display: flex;
+
+}
+.al2{
+	background: url('ANBV36.JPG');
+	height: 100px;
+	color: teal;
+	padding: 15px 10px 0px 20px;
+	margin-top: 10px;
+	width: 100%;
+	height: 700px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.al3 a {
+	display: flex;
+	color: black;
+	padding: 110px 60px;
+	font-size: 30px;
+	font-weight: 300;
+	font-style:italic;
+
+}
+.titre4 img{
+ height: 600px;
+ width: 500px;
+
+}
+.titre5{
+	color: gray;
+ 	text-decoration: underline;
+ 	 font-size: 70px;
+	font-style: italic;
+
+}
+.titre7{
+	font-size: 30px;
+	color: red;
+	text-align: center;
+	margin-top: 20px;
+}
+.titre8{
+	font-size: 10px;
+	color: red;
+	text-align: center;
+}
+.titre8 span {
+	color: white;
+	text-decoration: underline black;
+}
+.al5{
+	justify-content: center;
+	display: flex;
+margin-top: 25px;
+}
+.al6{
+background-color: black;
+border:2px solid white;
+
+}
+.titre9 img{
+width: 100px;
+height: 100px;
+border: 3px solid red;
+border-radius: 20px;
+margin: 15px 30px;
+}
+.titre10{
+	color: white;
+	text-align: center;
+
+}
+.titre11{
+		color: white;
+		text-align: center;
+}
+.titre12{
+	display: flex;
+font-style: italic;
+}
+.div-left .text{
+    	text-align: center;
+}
+.logo a span{
+	color: #000;
+	color: white;
+	
+
+}
+.button-one:hover{
+	
+background-color: black;
+
+ 	}
+
+.text a{
+	background-color: black;
+}
+.titre8{
+		font-size: 40px;
+	margin-top: 90px;
+}
+.titre13{
+	text-align: right;
+	background-color: red;
+}
+
+.d3{
+	background: gray;
+	border-radius: 10px;
+	text-align: center;
+	color: white;
+
+}
+.dla{
+	
+}
+.ald1{
+
+}
+.d5{
+	font-size: 25px;
+	font-weight: 600;
+	margin-right:  70px;
+		font-family: 'lucida calligraphy';
+
+}
+footer {
+		font-family: 'lucida calligraphy';
+
+	padding-left: 300px;
+	background: black;
+	font-size: 30px;
+	margin-top: 80px;
+	width: 5300px;
+	height: 40px;
+	color: white;
+	font-style: italic;
+	padding-bottom: 15px;
+}
+footer titre13 span{
+	color: teal;
+	font-size: 40px;
+	}
+	.al8 div{
+			font-weight: 700px;
+	font-style: italic;
+
+	}
+	.al8 span{
+			font-weight: 700px;
+	font-style: italic;
+
+	}
+	.al8{
+		padding-left: 35px;
+	line-height: 30px;
+	font-size: 20px;
+	}
+	.d2{
+		word-spacing: 15px;
+		white-space: 30px;
+		margin-top: 30px;
+	}
+	.d2 div{
+		color: blue;
+	}
+	.nav .al1 .logo .menu {
+		display: flex;
+		text-align: center;
+	}
+
